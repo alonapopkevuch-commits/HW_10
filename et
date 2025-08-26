@@ -1,0 +1,29 @@
+[33mcommit 0606476de74171c3578a22f33e8033d820c3f8ee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Альона <Альона.alonapopkevuch@gmail.com>
+Date:   Tue Aug 26 17:11:34 2025 +0200
+
+    Додано рядок до develop_test.txt
+
+[33mcommit 415d714302f0886a0d588701d695b8189a76b009[m
+Author: Альона <Альона.alonapopkevuch@gmail.com>
+Date:   Tue Aug 26 17:09:43 2025 +0200
+
+    Додано файл develop_test.txt
+
+[33mcommit 3abf943d9989a7132cee7739d64cddfb2bd9a8d8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Альона <Альона.alonapopkevuch@gmail.com>
+Date:   Tue Aug 26 17:04:41 2025 +0200
+
+    Додано файл main_test.txt
+
+[33mcommit de0e6649b0ba43b49c2fe58b81ec9b3c2b94c1ac[m
+Author: Альона <Альона.alonapopkevuch@gmail.com>
+Date:   Tue Aug 26 16:40:30 2025 +0200
+
+    Додано text_ignore.txt до .gitignore
+
+[33mcommit 9695279d61d68e9ce0ea96092a4875188d772c91[m
+Author: alonapopkevuch-commits <alonapopkevuch@gmail.com>
+Date:   Tue Aug 26 16:13:47 2025 +0200
+
+    Initial commit

@@ -1,0 +1,46 @@
+    1  cd ~/Desktop
+    2  mkdir HW_10
+    3  cd /c/Users/igor/Desktop/HW_10
+    4  cd
+    5  cd~
+    6  cd ~
+    7  mkdir HW_10
+    8  cd HW_10
+    9  git clone https://github.com/alonapopkevuch-commits/HW_10.git
+   10  cd HW_10
+   11  touch text_ignore.txt
+   12  git add .
+   13  git commit -m "Додано text_ignore.txt до .gitignore"
+   14  git push
+   15  cd HW_10
+   16  git config --global user.name "Альона"
+   17  git config --global user.email "Альона.alonapopkevuch@gmail.com"
+   18  git commit -m "Додано text_ignore.txt до .gitignore"
+   19  git push
+   20  cd HW_10
+   21  git push
+   22  touch text_ignore.txt
+   23  git add .
+   24  git commit -m "Додано text_ignore.txt до .gitignore"
+   25  git push
+   26  cd HW_10
+   27  touch main_test.txt
+   28  git add .
+   29  git commit -m "Додано файл main_test.txt"
+   30  git push
+   31  cd HW_10
+   32  git checkout -b develop
+   33  touch develop_test.txt
+   34  git add .
+   35  git commit -m "Додано файл develop_test.txt"
+   36  git add .
+   37  git commit -m "Додано рядок до develop_test.txt"
+   38  git push origin develop
+   39  git checkout main
+   40  git merge develop
+   41  git log
+   42  cd HW_10
+   43  git checkout main
+   44  git merge develop
+   45  git push
+   46  history > command_list.csv
